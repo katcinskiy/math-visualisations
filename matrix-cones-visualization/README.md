@@ -2,6 +2,8 @@
 
 Visualize the cones of positive definite, negative definite, and indefinite matrices in the space of symmetric 2x2 matrices.
 
+![Example visualization](example.png)
+
 For a symmetric matrix $X = \begin{bmatrix} a & b \\ b & c \end{bmatrix}$, we represent it as a point $(a, b, c) \in \mathbb{R}^3$.
 
 Regions:
